@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.login.test.ShareActivity">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="微博分享"
+        android:id="@+id/btn_share_weibo"
+        android:layout_marginTop="59dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/btn_share_qq"
+        android:layout_alignStart="@+id/btn_share_qq" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QQ分享"
+        android:id="@+id/btn_share_qq"
+        android:layout_below="@+id/btn_share_weibo"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="171dp"
+        android:layout_marginEnd="171dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QQ空间分享"
+        android:id="@+id/btn_share_qqzone"
+        android:layout_below="@+id/btn_share_qq"
+        android:layout_alignRight="@+id/btn_share_qq"
+        android:layout_alignEnd="@+id/btn_share_qq" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="微信分享"
+        android:id="@+id/btn_share_weixin"
+        android:layout_below="@+id/btn_share_qqzone"
+        android:layout_alignLeft="@+id/btn_share_qqzone"
+        android:layout_alignStart="@+id/btn_share_qqzone" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="微信朋友圈分享"
+        android:id="@+id/btn_share_weixin_friends"
+        android:layout_below="@+id/btn_share_weixin"
+        android:layout_alignRight="@+id/btn_share_qqzone"
+        android:layout_alignEnd="@+id/btn_share_qqzone" />
+</RelativeLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\LoginAndShare\loginlib\src\main\res"><file path="D:\LoginAndShare\loginlib\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">LoginLib</string></file></source><source path="D:\LoginAndShare\loginlib\build\generated\res\rs\debug"/><source path="D:\LoginAndShare\loginlib\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="D:\LoginAndShare\loginlib\src\debug\res"/></dataSet><mergedItems/></merger>
