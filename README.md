@@ -4,3 +4,4 @@
 运行前 请先修改对应包名；
 
 ！！！！！！！！别忘填写对象的key！！！！！！！！！！！！！！
+![image](https://github.com/binbinsong/Third-party-login-and-share/blob/master/app/Screenshot_2016-04-15-18-43-21-530_SinaLogin1.png)
