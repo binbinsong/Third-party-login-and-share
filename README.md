@@ -5,3 +5,5 @@
 
 ！！！！！！！！别忘填写对象的key！！！！！！！！！！！！！！
 ![image](https://github.com/binbinsong/Third-party-login-and-share/blob/master/app/Screenshot_2016-04-15-18-43-21-530_SinaLogin1.png)
+
+![image](https://github.com/binbinsong/Third-party-login-and-share/blob/master/app/Screenshot_2016-04-15-18-43-26-898_SinaLogin1.png)
